@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this script, please cite it as below."
+authors:
+- family-names: "Deferme"
+  given-names: "Lowie"
+- family-names: "Purnal"
+  given-names: "Lennert"
+- family-names: "Butaye"
+  given-names: "Jonathan"
+title: "quic-scapy-packet-gen"
+version: 1.0.0
+date-released: 2022-05-03
+url: "https://github.com/quic-hw-offload-thesis/scapy_packet_gen"
